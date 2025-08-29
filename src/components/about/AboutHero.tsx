@@ -14,7 +14,7 @@ export default function AboutHero() {
 							About Us
 						</h1>
 						<p className="text-white leading-relaxed drop-shadow-md font-montserrat text-[16px] font-normal">
-							Enat Bank, established by women, holds the distinction of being Ethiopia&#39;s
+							Enat Bank, established by women, holds the distinction of being Ethiopias
 							first and only female-initiated bank. Since its inception on March 5, 2013, the
 							bank has been at the forefront of providing comprehensive banking
 							services. It stands as a leading institution in Ethiopia, dedicated to
